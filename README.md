@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ganesh070605
+- 👋 Hi, I’m @Ganesh765
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning "c"
 - 📫 How to reach me ganeshramshetwad@gmail.com
